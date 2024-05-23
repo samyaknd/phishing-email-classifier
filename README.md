@@ -1,7 +1,5 @@
 # phishing-email-classifier
 
-# Phishing Email Detection
-
 Kaggle Dataset - [https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails/data)
 
 The following tasks were performed in the phishing_email_classification.ipynb file
