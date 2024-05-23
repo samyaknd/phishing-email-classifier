@@ -7,8 +7,7 @@ This project aims to build a  machine learning model for detecting phishing emai
 The following tasks were performed in the phishing_email_classification.ipynb file
 
 ## 1. Data Loading and Cleaning
-The dataset containing email text and corresponding labels (safe or phishing) is loaded and cleaned to remove any missing values. A subset of the data (10,000 rows) is sampled for model building.
-
+The dataset containing email text and corresponding labels (safe or phishing) is loaded and cleaned to remove any missing values.
 ## 2. Exploratory Data Analysis (EDA)
 Feature extraction is performed to gain insights into the characteristics of the email text. This includes analyzing the length, complexity, and structure of emails to identify patterns related to the target variable (safe or phishing). Visualizations such as histograms, word clouds, and common word histograms provide a deeper understanding of the data.
 
