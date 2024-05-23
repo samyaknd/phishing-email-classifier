@@ -2,9 +2,9 @@
 
 Kaggle Dataset - [https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails/data)
 
-The following tasks were performed in the phishing_email_classification.ipynb file
-
 This project aims to build a  machine learning model for detecting phishing emails. It utilizes various natural language processing (NLP) techniques and machine learning algorithms to analyze email text and classify it as either safe or phishing. Below is an outline of the key steps involved in the project:
+
+The following tasks were performed in the phishing_email_classification.ipynb file
 
 ## 1. Data Loading and Cleaning
 The dataset containing email text and corresponding labels (safe or phishing) is loaded and cleaned to remove any missing values. A subset of the data (10,000 rows) is sampled for model building.
